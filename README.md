@@ -19,7 +19,7 @@ require(OmicsEO)
 ```
 
 2. load in featurecount data to R environment
-
+this code reads Featurecount files and compiles them to R object with gene.name column and each sample on each column
 ```{r, echo = TRUE, eval = TRUE, collapse = TRUE}
 counts <- input_featurecounts(directory = <your_directory>)
 ```
