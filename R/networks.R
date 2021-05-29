@@ -3,7 +3,6 @@
 #'
 #' @param threshold padjust threshold for considering node
 #' @param direction positive terms or negative terms
-#' @param selection pattern selection for TPM calculation. defult = NULL. set it to "WT" to only use WT data for
 #' @import igraph
 #' @export
 #'

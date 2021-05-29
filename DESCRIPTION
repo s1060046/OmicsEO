@@ -1,11 +1,11 @@
 Package: omicsanalysisEO
-Title: What the Package Does (One Line, Title Case)
+Title: collection of scripts for Omics analysis
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Sang",
+           family = "Seo",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "Sang.Seo@ed.ac.uk",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
 Imports: readr, dplyr, DESeq2, ggpubr, limma, SummarizedExperiment, biomaRt, piano, DEP, purrr, tibble, tidyr, SummarizedExperiment, ggplot2, igraph
